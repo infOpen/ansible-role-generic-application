@@ -11,9 +11,11 @@ galaxy_info:
     - name: 'Debian'
       versions:
         - 'jessie'
+        - 'stretch'
     - name: 'Ubuntu'
       versions:
         - 'xenial'
+        - 'bionic'
   galaxy_tags:
     - 'application'
 dependencies: []
